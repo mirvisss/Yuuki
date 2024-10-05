@@ -9,7 +9,7 @@
 
 ## Проекты
 
-### 🐒 FistashkinBot (Discord Bot)
+### 🐒 Yuuki (Discord Bot)
 [**Yuuki**](https://github.com/mirvisss/Yuuki/blob/main) — это небольшой бот с кучкой команд и своей экономикой. Он работает на слеш командах, что его использование окажется куда удобнее.
 
 ## 🥳 Участие
